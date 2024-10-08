@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Matthew-Laforce.
-- 
 - 👀 I’m interested in AI, cybersecurity, and the intersection of computer science and mathematics.
 - 🌱 I’m currently learning about surface integrals, graph theory, software engineering, and combinatorics.
 - 💞️ I’m looking to collaborate on AI-driven projects, cybersecurity research, or innovative software solutions.
